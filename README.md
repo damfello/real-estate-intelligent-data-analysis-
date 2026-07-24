@@ -11,7 +11,7 @@ To address the client's primary objective—maximizing return on investment (ROI
 
 ## Key Findings & Visual Insights
 
-![Real Estate Investment Insights](assets/real-estate-insights.jpg)
+![Real Estate Investment Insights](https://raw.githubusercontent.com/damfello/real-estate-intelligent-data-analysis-/main/assets/real-estate-insights.JPG)
 
 * **Top ROI Segments:** Analysis indicates that homes built in the 1970s, without significant renovations, purchased in the month of October, and located in regions like South Seattle, generally offer the highest estimated return on investment.
 * **Methodological Approach:** To reduce the distortion caused by extreme market outliers while keeping data volume high, a 10% trimmed mean was applied across categorical benchmarks.
