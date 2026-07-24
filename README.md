@@ -9,6 +9,10 @@ To address the client's primary objective—maximizing return on investment (ROI
 
 ## Key Findings & Conclusions
 
+## Key Findings & Visual Insights
+
+![Real Estate Investment Insights](assets/real-estate-insights.jpg)
+
 * **Top ROI Segments:** Analysis indicates that homes built in the 1970s, without significant renovations, purchased in the month of October, and located in regions like South Seattle, generally offer the highest estimated return on investment.
 * **Methodological Approach:** To reduce the distortion caused by extreme market outliers while keeping data volume high, a 10% trimmed mean was applied across categorical benchmarks.
 * **Future Improvements:** Future phases of this project should implement advanced outlier treatment methods—such as Winsorization, multivariate anomaly detection (Isolation Forest), or log-transformations—to further refine price predictability and handle market skewness.
