@@ -21,7 +21,6 @@ Historical houses in the best neighborhoods, and with the best ROI, based on the
 
 To address the client's primary objective—maximizing return on investment (ROI)—the project connects to a PostgreSQL database, extracts and joins housing details and sales records, and engineers custom profitability metrics.
 
-## Key Findings & Conclusions
 
 ## Key Findings & Visual Insights
 
