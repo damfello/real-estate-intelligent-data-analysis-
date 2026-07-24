@@ -11,7 +11,7 @@
 - **waterfront** - House which has a view to a waterfront
 - **view** - quality of view
 - **condition** - How good the condition is ( Overall )
-- **grade** - overall grade given to the housing unit, based on King County grading system
+- **grade** - overall grade given to the housing unit based on the constructions materials (King County grading system)
 - **sqft_above** - square footage of house apart from basement
 - **sqft_basement** - square footage of the basement
 - **yr_built** - Built Year
