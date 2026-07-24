@@ -3,6 +3,20 @@
 
 This repository contains an exploratory data analysis of the King County housing dataset (home sales in and around Seattle, USA). The project focuses on uncovering what drives house prices, evaluating return on investment (ROI) metrics across key dimensions, and turning data-driven insights into actionable recommendations for real estate clients.
 
+# Client's requirements. 
+
+Investor Zachary Brooks:
+Looking to invest in real estate with specific requirements:
+Historical houses in the best neighborhoods, and with the best ROI, based on the best time to buy a renovated or non renovated house.
+
+
+### Main Objective: Maximize ROI with following specific requirements:
+
+1. Historical houses
+2. Renovated or no?
+3. Best neighborhoods
+4. Best timing to buy and sell a house within a year
+
 ## Project Overview & Methodology
 
 To address the client's primary objective—maximizing return on investment (ROI)—the project connects to a PostgreSQL database, extracts and joins housing details and sales records, and engineers custom profitability metrics.
